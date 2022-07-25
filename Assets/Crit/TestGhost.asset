@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f808357e3cb8ba4da3c1d2a00a8be90, type: 3}
+  m_Name: TestGhost
+  m_EditorClassIdentifier: 
+  type1: 13
+  type2: 18
+  hpStat: 1
+  attackStat: 1
+  defenseStat: 1
+  spAttackStat: 1
+  spDefenseStat: 1
+  speedStat: 1
+  critName: A Ghost
+  frontSprite: {fileID: 21300000, guid: 2303d77d71bd2ac4ca0feb4d58a523f0, type: 3}
+  backSprite: {fileID: 21300000, guid: 4f0922b66c6191a48b4de35c9443931a, type: 3}
+  frontSpriteShiny: {fileID: 21300000, guid: 2303d77d71bd2ac4ca0feb4d58a523f0, type: 3}
+  backSpriteShiny: {fileID: 21300000, guid: 4f0922b66c6191a48b4de35c9443931a, type: 3}
+  evolution: {fileID: 0}
+  evolLevel: 101
+  lvlSpeed: 0
+  baseXp: 1
+  description: 
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: dbe36efa1c138d040b612d29418d340c, type: 2}
+    levelLearnt: 1

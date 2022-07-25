@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Solid
+  - Grass
+  - Character
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3800949737
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 414762585
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2949277797
+    locked: 0
+  - name: Bush
+    uniqueID: 2582567361
+    locked: 0
+  - name: Foreground
+    uniqueID: 3968210923
+    locked: 0
+  - name: CliffBot
+    uniqueID: 2802582541
+    locked: 0
